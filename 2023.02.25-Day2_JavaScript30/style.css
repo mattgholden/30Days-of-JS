@@ -44,4 +44,17 @@ html {
     border: 3px solid whitesmoke;
     position: absolute;
     top: 50%;
+    transform-origin: 100%;
+    transform: rotate(90deg);
   }
+
+  /* .handsecond-hand{
+    width: 50%;
+    height: 6px;
+    background: black;
+    border: 3px solid whitesmoke;
+    position: absolute;
+    top: 50%;
+    transform-origin: 100%;
+    
+  } */
